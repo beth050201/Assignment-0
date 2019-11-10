@@ -64,16 +64,17 @@ nav {
       li a {
         text-decoration: none;
         color: #ccc;
-        font: 25px/1 Helvetica, Verdana, sans-serif;
+        font: 20px/1 Helvetica, Verdana, sans-serif;
         text-transform: uppercase;
         transition: all 0.5s ease;
       }
        
       li a:hover {
-        color: rgba(95, 139, 197, 0.5);
+        color: rgba(43, 112, 202, 0.5);
       }
     
       li.active a {
         font-weight: bold;
         color: #333;
       }
+
