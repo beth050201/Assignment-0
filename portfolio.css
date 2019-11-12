@@ -63,7 +63,9 @@ hr {
 .gallery-item  {
     max-width: 100%;
     border-radius: 5px;
-    box-shadow: 0 5px 20px rgba(95, 139, 197, 0.5);
+    box-shadow: 0 5px 20px rgba(69, 122, 190, 0.5);
+    /* I have editted the box shadow to change the colour as perosnally I found having a dark shadow made the overall 
+    screen appear more darker so by adding the blue it compliments the blue whihc is used for teh header colour and also the naviagtion.*/
     transition: all .3s;
     overflow: hidden;
     position: relative;

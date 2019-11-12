@@ -77,4 +77,10 @@ nav {
         font-weight: bold;
         color: #333;
       }
-
+.twitter{
+ width: 16px;
+ height: 16px;
+ size: 16px;
+ float: right;
+ /* added float=right so the icon would appear alongside the GitHub icon instead of below*/
+}
