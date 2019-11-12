@@ -1,11 +1,12 @@
 h1 {
   font-family: 'Raleway', sans-serif;
-    
+    color:white;
 }
 /*the header 1 selector contians the CSS code which GoogleFonts supplies */
 
-h3{
+h2{
   font-family: 'Montserrat', sans-serif;
+  color: white;
 }
 .item {
    text-align: 200px;
@@ -26,13 +27,14 @@ img {
     filter: grayscale(1);
     border-style: none;
     border-radius: 50%;
-    transition: background-size 0.3s ease;
+    transition: background-size 0.2s ease;
     filter: grayscale(1);
-    transition: background-size 0.3s ease; 
+    transition: background-size 0.2s ease; 
 }
 
  body {
      text-align: center;
+     background-color: rgb(216, 214, 209);
     
  }
  
@@ -61,7 +63,7 @@ nav {
      
       li a {
         text-decoration: none;
-        color: #ccc;
+        color: white;
         font: 20px/1  Helvetica, Verdana, sans-serif;
         text-transform: uppercase;
         transition: all 0.5s ease;

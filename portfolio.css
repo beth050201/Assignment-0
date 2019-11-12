@@ -3,12 +3,15 @@
     font-family: montserrat, sans-serif;
 }
 
+body{
+    background-color: rgb(216, 214, 209);
+}
 h1 {
     font-size: 3.5rem;
     font-weight: 400;
     text-align: center;
-    font-family: 'Oswald', sans-serif;
-    color: #0a44869d;
+    font-family: 'Raleway', sans-serif;
+    color: white;
 }
 nav {
     margin: 50px;
@@ -34,7 +37,7 @@ nav {
  
   li a {
     text-decoration: none;
-    color: #ccc;
+    color: white;
     font: 20px/1 Helvetica, Verdana, sans-serif;
     text-transform: uppercase;
     transition: all 0.5s ease;
@@ -63,7 +66,7 @@ hr {
 .gallery-item  {
     max-width: 100%;
     border-radius: 5px;
-    box-shadow: 0 5px 20px rgba(69, 122, 190, 0.5);
+    box-shadow: 0 5px 20px rgba(82, 85, 90, 0.5);
     /* I have editted the box shadow to change the colour as perosnally I found having a dark shadow made the overall 
     screen appear more darker so by adding the blue it compliments the blue whihc is used for teh header colour and also the naviagtion.*/
     transition: all .3s;
