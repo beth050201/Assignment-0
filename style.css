@@ -1,5 +1,5 @@
 h1 {
-  font-family: 'Raleway', sans-serif;
+   font-family: 'Raleway', sans-serif;
     color:white;
 }
 /*the header 1 selector contians the CSS code which GoogleFonts supplies */
@@ -34,13 +34,13 @@ img {
 
  body {
      text-align: center;
-     background-color: rgb(216, 214, 209);
+     background-color: rgb(181, 223, 214);
     
  }
  
 nav {
         margin: 50px;
-       /* float: right;*/
+       
         
       }
       
